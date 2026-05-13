@@ -1,7 +1,6 @@
 # Mininet-WiFi Roaming & Communication Analysis
 
 Bu proje, **Mininet-WiFi** emülatörü üzerinde iki Erişim Noktası (Access Point) ve hareketli bir istasyon (Station) arasındaki iletişim sürekliliğini analiz etmek için tasarlanmıştır.
-<img width="643" height="565" alt="Ekran Resmi 2026-05-13 13 04 30" src="https://github.com/user-attachments/assets/9667109e-8379-4941-9833-85c0e2155782" />
 
 
 ## 📌 Proje Özeti
@@ -16,6 +15,7 @@ Bu proje, **Mininet-WiFi** emülatörü üzerinde iki Erişim Noktası (Access P
 ## 🛠 Kurulum ve Gereksinimler
 Bu projeyi çalıştırmak için sisteminizde **Mininet-WiFi** kurulu olmalıdır.
 
+<img width="643" height="565" alt="Ekran Resmi 2026-05-13 13 04 30" src="https://github.com/user-attachments/assets/9667109e-8379-4941-9833-85c0e2155782" />
 
 ```bash
 
