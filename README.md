@@ -1,6 +1,8 @@
 # Mininet-WiFi Roaming & Communication Analysis
 
 Bu proje, **Mininet-WiFi** emülatörü üzerinde iki Erişim Noktası (Access Point) ve hareketli bir istasyon (Station) arasındaki iletişim sürekliliğini analiz etmek için tasarlanmıştır.
+<img width="643" height="565" alt="Ekran Resmi 2026-05-13 13 04 30" src="https://github.com/user-attachments/assets/9667109e-8379-4941-9833-85c0e2155782" />
+
 
 ## 📌 Proje Özeti
 `projectEren.py` betiği, bir mobil cihazın (sta1) iki farklı AP arasında hareket ederken bağlantı durumunu, paket kaybını ve gecikme (latency) değerlerini gerçek zamanlı olarak ölçer.
@@ -14,10 +16,12 @@ Bu proje, **Mininet-WiFi** emülatörü üzerinde iki Erişim Noktası (Access P
 ## 🛠 Kurulum ve Gereksinimler
 Bu projeyi çalıştırmak için sisteminizde **Mininet-WiFi** kurulu olmalıdır.
 
+
 ```bash
+
 # Mininet-WiFi kurulumu (Eğer sisteminizde yoksa)
 git clone [https://github.com/intrig-unicamp/mininet-wifi](https://github.com/intrig-unicamp/mininet-wifi)
 cd mininet-wifi
 sudo util/install.sh -W
 
-<img width="645" height="568" alt="Ekran Resmi 2026-05-13 13 03 19" src="https://github.com/user-attachments/assets/831777e6-7184-4dbd-bc11-0e9891bff159" />
+
